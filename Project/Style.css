@@ -1,0 +1,16 @@
+﻿body
+{
+    padding-left:20px;
+    margin-top:10px;
+    overflow:hidden;
+}
+table {
+    border: 1px solid black;
+   
+
+}
+.table-responsive {
+    max-height: 520px;
+    max-width: 1340px;
+    overflow: scroll;
+}
